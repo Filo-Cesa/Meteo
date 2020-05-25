@@ -1,0 +1,17 @@
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Meteo\Cesarini.Filippo.4H.Meteo\obj\Debug\Cesarini.Filippo.4H.Meteo.csprojAssemblyReference.cache
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Meteo\Cesarini.Filippo.4H.Meteo\obj\Debug\MainWindow.g.cs
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Meteo\Cesarini.Filippo.4H.Meteo\obj\Debug\Window1.g.cs
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Meteo\Cesarini.Filippo.4H.Meteo\obj\Debug\App.g.cs
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Meteo\Cesarini.Filippo.4H.Meteo\obj\Debug\Cesarini.Filippo.4H.Meteo_MarkupCompile.cache
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Meteo\Cesarini.Filippo.4H.Meteo\obj\Debug\Cesarini.Filippo.4H.Meteo_MarkupCompile.lref
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Meteo\Cesarini.Filippo.4H.Meteo\bin\Debug\Cesarini.Filippo.4H.Meteo.exe.config
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Meteo\Cesarini.Filippo.4H.Meteo\bin\Debug\Cesarini.Filippo.4H.Meteo.exe
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Meteo\Cesarini.Filippo.4H.Meteo\bin\Debug\Cesarini.Filippo.4H.Meteo.pdb
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Meteo\Cesarini.Filippo.4H.Meteo\obj\Debug\MainWindow.baml
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Meteo\Cesarini.Filippo.4H.Meteo\obj\Debug\Window1.baml
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Meteo\Cesarini.Filippo.4H.Meteo\obj\Debug\Cesarini.Filippo.4H.Meteo.g.resources
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Meteo\Cesarini.Filippo.4H.Meteo\obj\Debug\Cesarini.Filippo._4H.Meteo.Properties.Resources.resources
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Meteo\Cesarini.Filippo.4H.Meteo\obj\Debug\Cesarini.Filippo.4H.Meteo.csproj.GenerateResource.cache
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Meteo\Cesarini.Filippo.4H.Meteo\obj\Debug\Cesarini.Filippo.4H.Meteo.csproj.CoreCompileInputs.cache
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Meteo\Cesarini.Filippo.4H.Meteo\obj\Debug\Cesarini.Filippo.4H.Meteo.exe
+C:\Users\filic\Desktop\Cesarini.Filippo.4H.Meteo\Cesarini.Filippo.4H.Meteo\obj\Debug\Cesarini.Filippo.4H.Meteo.pdb
